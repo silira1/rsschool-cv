@@ -1,2 +1,2 @@
 # rsschool-cv
-https://silira1.github.io/rsschool-cv/cv
+https://silira1.github.io/rsschool-cv/
